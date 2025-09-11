@@ -83,6 +83,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>jenkinsDemo</finalName>
 	</build>
 
 </project>
